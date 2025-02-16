@@ -1,0 +1,24 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo sembolü -->
+  <g>
+    <!-- Üst sol çizgi ve nokta -->
+    <circle cx="15" cy="15" r="5" fill="currentColor"/>
+    <rect x="15" y="15" width="30" height="8" fill="currentColor"/>
+    
+    <!-- Üst sağ çizgi ve nokta -->
+    <circle cx="85" cy="15" r="5" fill="currentColor"/>
+    <rect x="55" y="15" width="30" height="8" fill="currentColor"/>
+    
+    <!-- Alt sol çizgi ve nokta -->
+    <circle cx="15" cy="85" r="5" fill="currentColor"/>
+    <rect x="15" y="77" width="30" height="8" fill="currentColor"/>
+    
+    <!-- Alt sağ çizgi ve nokta -->
+    <circle cx="85" cy="85" r="5" fill="currentColor"/>
+    <rect x="55" y="77" width="30" height="8" fill="currentColor"/>
+    
+    <!-- Orta çizgiler -->
+    <rect x="35" y="35" width="30" height="8" transform="rotate(90 35 35)" fill="currentColor"/>
+    <rect x="65" y="35" width="30" height="8" transform="rotate(90 65 35)" fill="currentColor"/>
+  </g>
+</svg> 
